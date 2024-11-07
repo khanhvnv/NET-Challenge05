@@ -62,6 +62,7 @@ In a terminal, run the following command to trust the .NET development certifica
 Restart both projects after running this command.
 	
 Step 6: Run Both Projects and Verify the Results
+	
 	1. Run the Minimal API (CategoryApi) project on its assigned port.
 		○ Open the terminal in CategoryApi project folder and run:	dotnet run
 		○ Open a browser and navigate to http://localhost:5000/categories (or the appropriate port for your API project).
